@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solvedinternational-civil-aviation-organization-alphabet
+<br>
+Homework 3Write a program that takes a letter as input and outputs the corresponding word in the International Civil Aviation Organization Alphabet. Extend the program so that it inputs a string and outputs the series of ICAO words that would be used to spell it out. For example:Enter string: program Phonetic version is: Papa Romeo Oscar Golf Romeo Alpha MikeWrite the program so that it determines the word corresponding to a specified letter using a Switch statement instead of an If structure.
